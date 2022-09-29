@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 import {BrowserRouter, Routes, Route } from "react-router-dom";
 
 /* Add basic styling for NavLinks */
-const linkStyles = ("linkStyles") = {
+const linkStyles = (linkStyles) = {
   display: "inline-block",
   width: "50px",
   padding: "12px",
